@@ -16,6 +16,7 @@ TASK
 One application of use could be about calcifications recognition in Mammography using Data Augmentation.
 Calcifications are breast changes related to the presence of a pathology which, depending on the case, can be benign or malignant. These lesions are the result of the deposition of calcium salts in the breast tissue and, due to their marked contrast to X-rays, can be visualized by mammography, which is a X-ray picture of the breast.
 The calcifications are visible almost exclusively on mammography. The distinction between benign malignant calcifications is made according to their characteristics on mammography examination.
+
 We would implement a GAN model which is able either to:
 -	Generate increased resolution images of mammography (Image Super-Resolution task), in order to recognize on those medical images, if there are calcifications and even their characteristics, possibly without adding noise. Indeed, poor image quality reduces the accuracy of deep learning medical image models.
 
