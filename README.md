@@ -12,6 +12,7 @@ GANs (Generative Adversarial Networks) are machine learning models made by a com
 -	The generator goal is to artificially manufacture outputs that could easily be mistaken for real data.
 -	The discriminator goal instead is to identify which outputs that it receives have been artificially created.
 In order to accomplish both tasks, GANs use adversarial training. For instance, if we use a dataset made by images, the generator creates “fake” images and tries to fool the discriminator in believing that the images are real, while the discriminator tries to discriminate as good as possible real images from the ones created by the generator.
+
 TASK
 One application of use could be about calcifications recognition in Mammography using Data Augmentation.
 Calcifications are breast changes related to the presence of a pathology which, depending on the case, can be benign or malignant. These lesions are the result of the deposition of calcium salts in the breast tissue and, due to their marked contrast to X-rays, can be visualized by mammography, which is a X-ray picture of the breast.
