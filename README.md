@@ -4,6 +4,7 @@ PROJECT TOPIC: GENERATIVE MODEL (GANs)
 TASK: Realistic images generation/Image Super-Resolution
 
 ID student: 1696976 1999362
+
 PROJECT TOPIC: GANs
 GAN is about generating data starting from another type of data or from noise. It is composed by a discriminative network and a generative network. Those models are able to produce some images even if starting from random noise.
 GANs (Generative Adversarial Networks) are machine learning models made by a combination of two neural networks: generator (decoder part) and discriminator (critic part), which compete with each other to become more accurate in their predictions:
